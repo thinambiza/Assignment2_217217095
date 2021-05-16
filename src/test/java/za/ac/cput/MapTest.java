@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
  * @Author: Thina Mbiza
  * Student Number: 217217095
  * Date: 16 May 2020
- * This class is the List Collection Class.
+ * This class is the Map Collection Class.
  */
 
 import java.util.HashMap;
